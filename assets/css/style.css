@@ -21,8 +21,10 @@ main h1 {
     font-size: 30px;
 }
 
-/* picture of Carlos styling */
-.me {
-    
+@media (max-width:500px) {
+    img {
+       display: flex;
+       flex-wrap: wrap;
+    }
 }
 

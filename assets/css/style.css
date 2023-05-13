@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* navigation bar styiling */
+.nav-list {
+    font-size: 20px;
+    text-align: right;
+    padding: 5px;
+}
+
+.nav-links {
+    display: inline;
+    padding: 5px;
+
+}
+/* Main page header styling */
+main h1 {
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+}
+
+/* picture of Carlos styling */
+.me {
+    
+}
+
